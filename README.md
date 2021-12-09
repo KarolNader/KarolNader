@@ -1,0 +1,3 @@
+- Hi, I’m @KarolNader (aka kiko)
+- Interested in coding
+- Currently learning js and python
